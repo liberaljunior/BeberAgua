@@ -8,7 +8,7 @@
 
 ## 🗒 Sobre
 
-Aplicativo em densevolvimento! 
+Aplicativo em desenvolvimento! 
 
 ## 🚀 Tecnologias utilizadas
 
